@@ -4,4 +4,5 @@
 .venv
 .python-version
 pyproject.toml
-uv.lockassets/sprites/
+uv.lock
+assets/sprites/
