@@ -1,0 +1,7 @@
+*.zip
+
+*.py
+.venv
+.python-version
+pyproject.toml
+uv.lockassets/sprites/
